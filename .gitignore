@@ -1,0 +1,9 @@
+# Ignore Python virtual environments
+/backend/venv/
+# Ignore node_modules
+/frontend/node_modules/
+# Ignore build output
+/frontend/build/
+# Ignore OS files
+.DS_Store
+Thumbs.db
